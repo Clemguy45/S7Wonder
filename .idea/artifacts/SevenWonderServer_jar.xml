@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SevenWonderServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SevenWonderServer_jar</output-path>
+    <root id="archive" name="SevenWonderServer.jar">
+      <element id="module-output" name="SevenWonderServer" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/SevenWonderServer/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
